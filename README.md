@@ -65,4 +65,4 @@ Run the following command in order to start the application in a development env
 Released in 2021.
 This project is under the [MIT license](LICENSE).
 
-Made with love by [Renan Pereira](https://github.com/mickael-levy) 💜🚀
+Made with love by [Mickael Levy](https://github.com/mickael-levy) 💜🚀
