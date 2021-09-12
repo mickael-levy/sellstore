@@ -25,13 +25,13 @@
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
 ```
-git clone https://github.com/r3nanp/sellstore.git
+git clone https://github.com/mickael-levy/sellstore.git
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you use a SSH key registered in your Github account, clone the project using this command:
 
 ```
-git clone git@github.com:r3nanp/sellstore.git
+git clone git@github.com:mickael-levy/sellstore.git
 ```
 
 **Install dependencies**
@@ -65,4 +65,4 @@ Run the following command in order to start the application in a development env
 Released in 2021.
 This project is under the [MIT license](LICENSE).
 
-Made with love by [Renan Pereira](https://github.com/r3nanp) 💜🚀
+Made with love by [Renan Pereira](https://github.com/mickael-levy) 💜🚀
